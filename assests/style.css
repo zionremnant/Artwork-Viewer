@@ -1,0 +1,34 @@
+body {
+  height: 100vh;
+  padding-top: 120px;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.headImg {
+  width: 120px;
+  z-index: 3;
+}
+
+.min-100 {
+  height: 100%;
+}
+
+.title {
+  color: #3d5cff;
+}
+
+.searchResults {
+  background-color: #8927d4;
+  border-left: solid 15px #240e54;
+}
+
+.searchBar {
+  background-color: #f74945;
+  border-right: solid 10px #3d5cff;
+}
